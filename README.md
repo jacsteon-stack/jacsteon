@@ -1,2 +1,0 @@
-# jacsteon
-My personal repository.
